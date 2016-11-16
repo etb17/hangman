@@ -1,0 +1,21 @@
+Dinosaurs
+Tyrannosaurus Rex
+Stegosaurus
+Archaeopteryx
+Ankylosaurus
+Parasaurolophus
+Pachycephalosaurus
+Velociraptor
+Utah Raptor
+Spinosaurus
+Allosaurus
+Brachiosaurus
+Triceratops
+Dilophosaurus
+Apatosaurus
+Carnotaurus
+Iguanodon
+Giganotosaurus
+Argentinosaurus
+Quetzalcoatlus
+Mammoth
